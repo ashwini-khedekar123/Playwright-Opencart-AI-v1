@@ -3,7 +3,7 @@ import { Locator, Page } from '@playwright/test';
 export class AccountPage {
   private readonly page: Page;
 
-  // Locators
+  // Locators//LocatorsS
   private readonly accountHeading: Locator;
   private readonly logoutLink: Locator;
 
