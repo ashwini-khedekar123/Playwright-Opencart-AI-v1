@@ -1,0 +1,23 @@
+
+# Playwright
+.env
+
+
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+/reports/
+/allure-results/
+/allure-report/
+/custom-reports/
+
+.claude/
+.commandcode/
+.plawright-cli/
+.plawright-mcp/
+
+
